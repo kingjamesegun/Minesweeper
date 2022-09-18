@@ -1,0 +1,16 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Minewsweeper to know more of TS, state management and file struture",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "and",
+    "Redux"
+  ],
+  "author": "James Okunola",
+  "license": "ISC"
+}
